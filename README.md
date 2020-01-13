@@ -1,4 +1,4 @@
-# Todo List with React
+# Todo List - React App
 
 > An app built with React and ReactDOM
 
