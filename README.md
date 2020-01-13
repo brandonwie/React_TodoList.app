@@ -9,7 +9,7 @@
 - Axios is used instead of common HTTP method
 - NOTE: `catch()` is not dealt in this app
 
-# Given README content from React
+## (below) Given README content from React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
